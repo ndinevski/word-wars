@@ -1,0 +1,11 @@
+dist
+target
+debug
+
+**/*.rs.bk
+*.pdb
+*.exe
+
+.vscode
+
+Cargo.lock
